@@ -1,0 +1,11 @@
+C:\Users\janik\Documents\FFT_WindowsForms_NET_4-8\bin\Debug\FFT_WindowsForms_NET_4-8.exe.config
+C:\Users\janik\Documents\FFT_WindowsForms_NET_4-8\bin\Debug\FFT_WindowsForms_NET_4-8.exe
+C:\Users\janik\Documents\FFT_WindowsForms_NET_4-8\bin\Debug\FFT_WindowsForms_NET_4-8.pdb
+C:\Users\janik\Documents\FFT_WindowsForms_NET_4-8\obj\Debug\FFT_WindowsForms_NET_4-8.csproj.AssemblyReference.cache
+C:\Users\janik\Documents\FFT_WindowsForms_NET_4-8\obj\Debug\FFT_WindowsForms_NET_4-8.csproj.SuggestedBindingRedirects.cache
+C:\Users\janik\Documents\FFT_WindowsForms_NET_4-8\obj\Debug\FFT_WindowsForms_NET_4_8.Form1.resources
+C:\Users\janik\Documents\FFT_WindowsForms_NET_4-8\obj\Debug\FFT_WindowsForms_NET_4_8.Properties.Resources.resources
+C:\Users\janik\Documents\FFT_WindowsForms_NET_4-8\obj\Debug\FFT_WindowsForms_NET_4-8.csproj.GenerateResource.cache
+C:\Users\janik\Documents\FFT_WindowsForms_NET_4-8\obj\Debug\FFT_WindowsForms_NET_4-8.csproj.CoreCompileInputs.cache
+C:\Users\janik\Documents\FFT_WindowsForms_NET_4-8\obj\Debug\FFT_WindowsForms_NET_4-8.exe
+C:\Users\janik\Documents\FFT_WindowsForms_NET_4-8\obj\Debug\FFT_WindowsForms_NET_4-8.pdb
